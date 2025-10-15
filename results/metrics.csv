@@ -1,0 +1,7 @@
+model,accuracy,precision,recall,f1
+baseline_majority,0.7346,0.0,0.0,0.0
+baseline_majority,0.7342,0.0,0.0,0.0
+log_reg,0.8038,0.6485,0.5722,0.608
+decision_tree,0.7335,0.4987,0.508,0.5033
+random_forest,0.7882,0.6275,0.5,0.5565
+knn,0.7768,0.5938,0.508,0.5476
